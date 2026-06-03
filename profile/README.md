@@ -1,7 +1,7 @@
 # AMPAV: Automated Metadata Pipeline for Audio/Video
 
 ## Overview
-**AMPAV** (Automated Metadata Pipeline for Audio/Video) is an open-source initiative designed to provide archivists and collection managers with efficient, AI-assisted tools for generating metadata from audio and moving image collections. It is the next evolution of the **Audiovisual Metadata Platform (AMP)**.
+**AMPAV** (Automated Metadata Pipeline for Audio/Video) is an open-source initiative designed to provide archivists and collection managers with efficient, AI-assisted tools for generating metadata from audio and moving image collections. It is the next evolution of the [**Audiovisual Metadata Platform (AMP)**](https://github.com/AudiovisualMetadataPlatform).
 
 While the original AMP project utilized a graphical workflow interface (Galaxy), **AMPAV shifts toward a pipeline-based approach**. This transition allows for greater flexibility, easier integration of rapidly evolving AI/ML tools, and lower overhead by focusing on **data processing** rather than data management.
 
